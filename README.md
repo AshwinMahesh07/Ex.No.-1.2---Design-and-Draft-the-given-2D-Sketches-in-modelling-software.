@@ -14,7 +14,8 @@
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
+<img width="413" height="432" alt="198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968" src="https://github.com/user-attachments/assets/5af8fec4-b95a-4e45-9f90-ce8d2c738d7c" />
+
  4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
